@@ -1,0 +1,6 @@
+D:\websites\AzureML\SampleDataGenerator\sampledata\bin\Debug\sampledata.exe.config
+D:\websites\AzureML\SampleDataGenerator\sampledata\bin\Debug\sampledata.exe
+D:\websites\AzureML\SampleDataGenerator\sampledata\bin\Debug\sampledata.pdb
+D:\websites\AzureML\SampleDataGenerator\sampledata\obj\Debug\sampledata.csprojResolveAssemblyReference.cache
+D:\websites\AzureML\SampleDataGenerator\sampledata\obj\Debug\sampledata.exe
+D:\websites\AzureML\SampleDataGenerator\sampledata\obj\Debug\sampledata.pdb
